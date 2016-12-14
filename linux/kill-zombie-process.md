@@ -6,7 +6,7 @@ Get the zombie process PID, e.g: 1234
 ps aux | grep -w Z 
 ```
 
-Get the parent's process PID, e.g: 3456
+Get the parent's process PID
 
 ```
 ps o ppid 1234
