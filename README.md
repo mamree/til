@@ -15,3 +15,10 @@ My own TIL, inspired by https://github.com/jbranchaud/til
 ### Linux
 
 - [Kill Zombie Process](linux/kill-zombie-process.md)
+
+### Vim
+
+- [Find Out Plugin Causing Modifiable
+  Off](vim/find-out-plugin-causing-modifiable-off)
+- [Make File Modifiable](vim/make-file-modifiable)
+- [Make File Writable](vim/make-file-writable)
