@@ -12,6 +12,10 @@ My own TIL, inspired by https://github.com/jbranchaud/til
 
 ---
 
+### Git
+
+- [Delete Remote Branch](git/delete-remote-branch.md)
+
 ### Linux
 
 - [Kill Zombie Process](linux/kill-zombie-process.md)
