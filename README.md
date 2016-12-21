@@ -20,6 +20,11 @@ My own TIL, inspired by https://github.com/jbranchaud/til
 
 - [Kill Zombie Process](linux/kill-zombie-process.md)
 
+### Ruby on Rails
+
+- [Setting Route's Scope Value in
+  Test](ruby-on-rails/setting-routes-scope-value-in-test.md)
+
 ### Vim
 
 - [Find Out Plugin Causing Modifiable
