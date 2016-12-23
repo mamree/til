@@ -10,8 +10,6 @@ My own TIL, inspired by https://github.com/jbranchaud/til
 
 * [Linux](#linux)
 
----
-
 ### Git
 
 - [Delete Remote Branch](git/delete-remote-branch.md)
