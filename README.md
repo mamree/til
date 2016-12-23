@@ -28,6 +28,6 @@ My own TIL, inspired by https://github.com/jbranchaud/til
 ### Vim
 
 - [Find Out Plugin Causing Modifiable
-  Off](vim/find-out-plugin-causing-modifiable-off)
-- [Make File Modifiable](vim/make-file-modifiable)
-- [Make File Writable](vim/make-file-writable)
+  Off](vim/find-out-plugin-causing-modifiable-off.md)
+- [Make File Modifiable](vim/make-file-modifiable.md)
+- [Make File Writable](vim/make-file-writable.md)
