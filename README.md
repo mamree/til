@@ -8,7 +8,12 @@ My own TIL, inspired by https://github.com/jbranchaud/til
 
 ## Categories
 
+* [Git](#git)
 * [Linux](#linux)
+* [Ruby on Rails](#ruby-on-rails)
+* [Vim](#vim)
+
+---
 
 ### Git
 
