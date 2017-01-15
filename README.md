@@ -29,6 +29,7 @@ My own TIL, inspired by https://github.com/jbranchaud/til
 
 - [Setting Route's Scope Value in
   Test](ruby-on-rails/setting-routes-scope-value-in-test.md)
+- [Switch to HTTPS for Bundle Source](ruby-on-rails/switch-to-https-for-bundle-source.md)
 
 ### Vim
 
