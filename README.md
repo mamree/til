@@ -20,6 +20,7 @@ My own TIL, inspired by https://github.com/jbranchaud/til
 - [Delete Remote Branch](git/delete-remote-branch.md)
 - [Workflow For Feature Branch That Depends on Another Feature
   Branch](git/workflow-for-feature-branch-that-depends-on-another-feature-branch.md)
+- [Syncing a Fork](git/syncing-a-fork.md)
 
 ### Linux
 
