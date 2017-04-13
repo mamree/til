@@ -28,7 +28,7 @@ including commits from `branch-a`
 
 * A rebased his commits against master into one single commit
 * He merged his changes
-* B pulled the latest changes
+* B update his local master branch
 * B changed base to the `master` for his PR
 * B rebased to `master` by only playing back his  commits `git rebase
   --onto master HEAD~X`
